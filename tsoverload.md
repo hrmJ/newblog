@@ -36,18 +36,9 @@ So how do I annotate the return type since `:string` is no longer valid?
 First place for me where I have used [function overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)
 
 ```typescript
-export function formatMinutes(
-  durationInMinutes: number,
-  asArray?: false
-): string;
-export function formatMinutes(
-  durationInMinutes: number,
-  asArray?: true
-): string[];
-export function formatMinutes(
-  durationInMinutes: number,
-  asArray = false
-): string {
+export function formatMinutes( durationInMinutes: number, asArray?: false): string;
+export function formatMinutes( durationInMinutes: number, asArray?: true): string[];
+export function formatMinutes( durationInMinutes: number, asArray = false): string {
   /// ..... ////
   if (asArray) return ["final result"];
   return "final result";
