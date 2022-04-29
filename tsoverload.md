@@ -2,6 +2,7 @@
 title: Conditional return types put simply
 slug: annotating-random-samples-in-r
 tags: typescript, ts, overloading
+cover: https://images.unsplash.com/photo-1526115540060-c0548a6a3096?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 date: 2018-05-30 08:25:08 UTC+03:00
 ---
 
