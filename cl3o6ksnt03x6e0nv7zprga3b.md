@@ -1,6 +1,6 @@
 ## A nice little shortcut for accessing a kubepod's log
 
-When developin inside a kubernetes based setup I usually have two places to look at logs for individual pods. First, since my setup uses [skaffold](skaffold.dev), I can view the combined output of all pods via the skaffold command's output. That, however, aggregates multiple pods' logs and can be a bit messy, so I tend to reach for the individual pod's logs. To do that, I usually first run
+When developing inside a kubernetes based setup I usually have two places to look at logs for individual pods. First, since my setup uses [skaffold](skaffold.dev), I can view the combined output of all pods via the skaffold command's output. That, however, aggregates multiple pods' logs and can be a bit messy, so I tend to reach for the individual pod's logs. To do that, I usually first run
 
 ```
 kubectl get pods --all-namespaces
