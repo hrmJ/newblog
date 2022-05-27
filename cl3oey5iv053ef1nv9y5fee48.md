@@ -38,7 +38,7 @@ not take long for me to realize that I would have to show my code to others a
 lot more often than I originally anticipated. And just as in the research community,
 getting feedback often and early turned out to be extremely valuable.
 
-Here's a straight up comparison, a little tongue-and-cheek:
+Here's a straight up comparison:
 
 | Academic world                                                         | Development world                            |
 | ---------------------------------------------------------------------- | -------------------------------------------- |
