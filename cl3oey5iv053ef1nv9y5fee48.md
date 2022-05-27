@@ -72,7 +72,7 @@ but in my day-to-day job that is, unfortunately, not the way I get my informatio
 
 As a young linguist I used to look up to the representatives of generative
 linguistics, the Chomskyans pursuing a genetically based universal grammar.
-Later on I began to question those assumptions and started to gain interested
+Later on I began to question those assumptions and started to gain interest
 in usage-based (Bybee et al) approaches and construction grammar (Fillmore,
 Goldberg etc). That kind of progression is natural and expected in the
 academia: you hear and read about theories, correct and revise your
