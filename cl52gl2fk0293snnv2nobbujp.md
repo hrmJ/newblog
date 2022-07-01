@@ -64,7 +64,7 @@ describe("...", () => {
 
 ### Use case 2: Mocking a default export from an external library
 
-This is the straight-forward mocking use case (just recording call parameters, not worrying about the output fiven to our app) that rarely causes trouble.
+This is the straight-forward mocking use case (just recording call parameters, not worrying about the output given to our app) that rarely causes trouble.
 
 ```typescript
 import axios from "axios"
