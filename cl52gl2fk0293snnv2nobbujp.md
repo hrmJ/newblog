@@ -102,7 +102,7 @@ how your app reacts to different kinds of inputs. This is the pattern I tend to
 use:
 
 1. Import the function you're stubbing
-2. Add a generic mock with `jest.fn`
+2. Add a generic stub with `jest.fn`
 3. Inside the test cases, specify a different return value (note the casting
    needed for typescript; btw ts-node has a shortcut for this)
 
