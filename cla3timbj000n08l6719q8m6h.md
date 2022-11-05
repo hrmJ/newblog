@@ -19,7 +19,7 @@ questions and the other a stack of equally random but applicable answers.
 The problem was that the same questions and answers had already been used so often
 the game was getting a bit too repetitive. I could not help seeing a chance for
 another web app! Perhaps one utilizing a monorepo architecture run with pnpm,
-thoroughly tested with mock service worker and....
+thoroughly tested with mock service workers and....
 
 You might argue that this type of a project does not necessarily call for
 something as complex as a monorepo, but nevertheless I decided to
@@ -238,8 +238,6 @@ for utility functions called my-utility-lib (at `packages/my-utility-lib`), I wo
    - OR inside the project root
 4. Have the new changes available
 
-
-![flow.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1667645981048/ueDUuBG3w.gif align="left")
 
 ## What's next?
 
