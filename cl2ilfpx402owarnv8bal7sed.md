@@ -1,4 +1,11 @@
-## Setting up a new bookdown project
+---
+title: "Setting up a new bookdown project"
+datePublished: Tue Nov 06 2018 07:41:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ilfpx402owarnv8bal7sed
+slug: setting-up-a-new-bookdown-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651234804202/sIF2AJtlc.png
+
+---
 
 
 I've been excited about writing my research in
