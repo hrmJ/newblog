@@ -1,4 +1,12 @@
-# Wasn't sure about turborepo, but the kids insisted on it....
+---
+title: "Wasn't sure about turborepo, but the kids insisted on it...."
+datePublished: Sat Nov 05 2022 11:04:05 GMT+0000 (Coordinated Universal Time)
+cuid: cla3timbj000n08l6719q8m6h
+slug: wasnt-sure-about-turborepo-but-the-kids-insisted-on-it
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/OV44gxH71DU/upload/v1667646091930/pxEMm8aqC.jpeg
+tags: pnpm, monorepos, turborepo
+
+---
 
 
 Last summer I was thinking about starting a toy project of some sorts. The
