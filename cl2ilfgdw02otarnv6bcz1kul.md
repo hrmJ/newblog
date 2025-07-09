@@ -1,4 +1,11 @@
-## Annotating random samples part 2
+---
+title: "Annotating random samples part 2"
+datePublished: Wed May 30 2018 05:25:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ilfgdw02otarnv6bcz1kul
+slug: annotating-random-samples-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/wdBqEHzo39g/upload/v1651235174948/I-P-gVlzx.jpeg
+
+---
 
 
 Just a quick follow-up on the previous post about manually annotating random
