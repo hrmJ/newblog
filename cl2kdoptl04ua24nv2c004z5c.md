@@ -1,4 +1,12 @@
-## Conditional return types for ts functions
+---
+title: "Conditional return types for ts functions"
+datePublished: Fri Apr 29 2022 11:55:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl2kdoptl04ua24nv2c004z5c
+slug: conditional-return-types-for-ts-functions
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/1sIz2NtVyI8/upload/v1651233113476/xQpf1qrWxf.jpeg
+tags: typescript
+
+---
 
 Here's a simple TS problem: I want to define multiple possible return types
 for a function based on the arguments of the function.
