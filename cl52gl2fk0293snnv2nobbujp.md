@@ -1,4 +1,12 @@
-## My most used mocking techniques in jest
+---
+title: "My most used mocking techniques in jest"
+datePublished: Fri Jul 01 2022 12:55:46 GMT+0000 (Coordinated Universal Time)
+cuid: cl52gl2fk0293snnv2nobbujp
+slug: my-most-used-mocking-techniques-in-jest
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/1Fsb2C7hxQ0/upload/v1656680069588/c46ifVPEJ.jpeg
+tags: testing, mocks, jest
+
+---
 
 
 Mocking in jest (or practically any other testing framework for that matter)
