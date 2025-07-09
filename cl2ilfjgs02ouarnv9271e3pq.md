@@ -1,4 +1,11 @@
-## The setNames + (l)apply pattern
+---
+title: "The setNames + (l)apply pattern"
+datePublished: Sat Jan 13 2018 11:28:19 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ilfjgs02ouarnv9271e3pq
+slug: the-setnames-lapply-pattern
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ETRPjvb0KM0/upload/v1651235277280/xZrFl-_Ua.jpeg
+
+---
 
 
 My research is, most of the time, about the differences and similarities
