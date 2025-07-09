@@ -1,4 +1,11 @@
-## Annotating random samples in R
+---
+title: "Annotating random samples in R"
+datePublished: Wed May 30 2018 05:25:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl2il74g402obarnv0pau64ov
+slug: annotating-random-samples-in-r
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/wCo9UwZEa18/upload/v1651235111574/KIl86gvYW.jpeg
+
+---
 
 
 Years ago, when I was still working with my master's thesis, I used to do
