@@ -1,4 +1,12 @@
-## Deploying a Django app with mod_wsgi on RHEL
+---
+title: "Deploying a Django app with mod_wsgi on RHEL"
+datePublished: Tue Sep 03 2019 12:15:31 GMT+0000 (Coordinated Universal Time)
+cuid: cl2kefg7o050813nvccdxf16u
+slug: deploying-a-django-app-with-modwsgi-on-rhel
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ufgOEVZuHgM/upload/v1651234594477/xLKpDpd1Tf.jpeg
+tags: django, apache
+
+---
 
 
 
