@@ -1,4 +1,12 @@
-## 5 things the dev world has in common with the academic world (in my experience)
+---
+title: "5 things the dev world has in common with the academic world (in my experience)"
+datePublished: Fri May 27 2022 12:21:29 GMT+0000 (Coordinated Universal Time)
+cuid: cl3oey5iv053ef1nv9y5fee48
+slug: 5-things-the-dev-world-has-in-common-with-the-academic-world-in-my-experience
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zeH-ljawHtg/upload/v1653654019339/Z43PPiman.jpeg
+tags: markdown, work, soft-skills
+
+---
 
 
 It's been roughly three years since I finished my PhD thesis on Finnish and
