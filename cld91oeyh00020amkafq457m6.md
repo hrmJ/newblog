@@ -1,4 +1,12 @@
-# Summer's coming! Deno told me so...
+---
+title: "Summer's coming! Deno told me so..."
+datePublished: Mon Jan 23 2023 16:50:30 GMT+0000 (Coordinated Universal Time)
+cuid: cld91oeyh00020amkafq457m6
+slug: summers-coming-deno-told-me-so
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/w9WVNJYb25k/upload/6e49f85562b35af061497ebade33f4db.jpeg
+tags: r, deno
+
+---
 
 I just figured out a great use case for Deno: writing small cli scripts. So far I haven't dived into Deno and perhaps the reason has been waiting for a complicated project like a real web app. It happened, however, that the need arose for me to write a couple of small helper scripts and whereas in the past I might have reached for python or just plain old bash, I decided to try out Deno. After all, it is mainly typescript I spend most of my days writing and Deno promises to deliver built-in typescript support. Another plus I hadn't realised was, however, the ease with which it allowed me to pull in any extra libraries needed. Check this out!
 
