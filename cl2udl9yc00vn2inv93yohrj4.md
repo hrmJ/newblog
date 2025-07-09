@@ -1,4 +1,12 @@
-## Running puppeteer in windows from inside wsl
+---
+title: "Running puppeteer in windows from inside wsl"
+datePublished: Fri May 06 2022 11:50:23 GMT+0000 (Coordinated Universal Time)
+cuid: cl2udl9yc00vn2inv93yohrj4
+slug: running-puppeteer-in-windows-from-inside-wsl
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/Xns9glZ9QOU/upload/v1651837696820/ws_Fzw1VT.jpeg
+tags: testing, jest, wsl
+
+---
 
 
 
