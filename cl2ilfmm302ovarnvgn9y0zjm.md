@@ -1,4 +1,11 @@
-## Getting readable pdfs from scans
+---
+title: "Getting readable pdfs from scans"
+datePublished: Fri Feb 02 2018 14:33:25 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ilfmm302ovarnvgn9y0zjm
+slug: getting-readable-pdfs-from-scans
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/Oaqk7qqNh_c/upload/v1651235231752/JIM1r4dyU.jpeg
+
+---
 
 
 Buying the Onyx boox N96ml reader (with 9 inch display and android os)
